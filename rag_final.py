@@ -148,7 +148,7 @@ else:
                 # Create LLM
                 llm = ChatGroq(
                     groq_api_key=api_key,
-                    model_name="llama-3.1-8b-instant",
+                    model_name="openai/gpt-oss-20b",
                     temperature=0.7
                 )
                 
