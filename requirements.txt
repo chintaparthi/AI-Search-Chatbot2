@@ -1,0 +1,24 @@
+langchain>=0.2.0
+langchain-groq>=1.1.0
+langchain-core>=0.2.0
+langchain-community>=0.2.0
+langchain-huggingface>=0.0.16
+
+# Embeddings & Vector Store
+sentence-transformers>=2.6.0
+faiss-cpu>=1.7.4
+
+# Document Loading
+pypdf>=4.0.1
+
+# Tools (All Free)
+duckduckgo-search>=4.0.0
+wikipedia>=1.4.0
+arxiv>=1.4.0
+
+# Utilities
+python-dotenv>=1.0.0
+requests>=2.31.0
+
+# UI
+streamlit>=1.28.0
